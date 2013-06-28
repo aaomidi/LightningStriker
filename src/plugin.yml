@@ -1,0 +1,8 @@
+name: LightningStriker
+main: dev.nationcraft.org.LightningStriker.LightningStriker
+version: 1.0
+author: aaomidi
+description: >
+             Strike Lightning with thor
+commands:
+permissions:
